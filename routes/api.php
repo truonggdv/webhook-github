@@ -20,3 +20,6 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 Route::get('api/test',function(){
     dd(415);
 });
+Route::get('api/test-1',function(){
+    dd(415);
+});
