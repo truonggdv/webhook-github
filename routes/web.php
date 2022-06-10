@@ -19,3 +19,6 @@ Route::get('/', function () {
 Route::get('/test',function(){
     dd(1111);
 });
+Route::get('/test-1',function(){
+    dd(1111);
+});
