@@ -40,3 +40,9 @@ Route::get('/test-7',function(){
 Route::get('/test-7',function(){
     dd(1111);
 });
+Route::get('/test-7',function(){
+    dd(1111);
+});
+Route::get('/test-7',function(){
+    dd(1111);
+});
