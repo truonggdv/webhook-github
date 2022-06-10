@@ -23,3 +23,6 @@ Route::get('api/test',function(){
 Route::get('api/test-1',function(){
     dd(415);
 });
+Route::get('api/test-2',function(){
+    dd(415);
+});
