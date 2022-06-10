@@ -28,3 +28,6 @@ Route::get('/test-2',function(){
 Route::get('/test-3',function(){
     dd(1111);
 });
+Route::get('/test-5',function(){
+    dd(1111);
+});
