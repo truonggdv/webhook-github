@@ -61,3 +61,9 @@ Route::get('/test-8',function(){
 Route::get('/test-8',function(){
     dd(1111);
 });
+Route::get('/test-8',function(){
+    dd(1111);
+});
+Route::get('/test-8',function(){
+    dd(1111);
+});
